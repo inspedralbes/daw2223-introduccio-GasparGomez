@@ -13,3 +13,8 @@ Els [professors](https://www.institutpedralbes.cat) del centre son:
 7. Sergi
 8. Oscar Leal
 9. Vegeta 
+10. Oscaaaar Leal ssj14
+11. Fabian Mangui UI
+12. Gaspar Gómez UE
+13. Israel Rashid super shawarma 5
+14. Asmae Ultra durum 
