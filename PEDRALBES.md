@@ -12,4 +12,7 @@ Els [professors](https://www.institutpedralbes.cat) del centre son:
 6. Susana
 7. Sergi
 8. Oscar Leal
-9. Vegeta 
+9. Veyeta
+10. Majin Veyeta
+11. Oscar777
+12. Visual
