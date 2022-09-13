@@ -12,7 +12,16 @@ Els [professors](https://www.institutpedralbes.cat) del centre son:
 6. Susana
 7. Sergi
 8. Oscar Leal
+<<<<<<< HEAD
 9. Veyeta
 10. Majin Veyeta
 11. Oscar777
 12. Visual
+=======
+9. Vegeta 
+10. Oscaaaar Leal ssj14
+11. Fabian Mangui UI
+12. Gaspar Gómez UE
+13. Israel Rashid super shawarma 5
+14. Asmae Ultra durum 
+>>>>>>> 35b6dd5f218815fed3273c9445eebbc6734e0eba
