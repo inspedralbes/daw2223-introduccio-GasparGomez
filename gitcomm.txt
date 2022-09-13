@@ -1,0 +1,25 @@
+git init (.git/)
+
+git clone url
+
+git fetch (mirar)
+
+git pull (agafar)
+
+gitignore
+
+git add
+
+git commit "missatge"
+
+git push
+
+git branch (front, back)
+
+git flow
+
+git checkout
+
+git status
+
+git log
